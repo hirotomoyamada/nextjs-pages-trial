@@ -27,8 +27,8 @@ dependencies:
     specifier: ^0.2.3
     version: 0.2.3(@types/react@18.2.8)(react-dom@18.2.0)(react@18.2.0)
   '@yamada-ui/carousel':
-    specifier: 0.0.0-dev-20230606190209
-    version: 0.0.0-dev-20230606190209(@types/react@18.2.8)(react-dom@18.2.0)(react@18.2.0)
+    specifier: ^0.1.6
+    version: 0.1.6(@types/react@18.2.8)(react-dom@18.2.0)(react@18.2.0)
   '@yamada-ui/dropzone':
     specifier: ^0.1.5
     version: 0.1.5(@types/react@18.2.8)(react-dom@18.2.0)(react@18.2.0)
@@ -36,14 +36,14 @@ dependencies:
     specifier: ^0.1.1
     version: 0.1.1(@types/react@18.2.8)(react-dom@18.2.0)(react@18.2.0)
   '@yamada-ui/markdown':
-    specifier: 0.0.0-dev-20230606191917
-    version: 0.0.0-dev-20230606191917(@types/react@18.2.8)(react-dom@18.2.0)(react@18.2.0)
+    specifier: ^0.1.6
+    version: 0.1.6(@types/react@18.2.8)(react-dom@18.2.0)(react@18.2.0)
   '@yamada-ui/react':
     specifier: 0.2.3
     version: 0.2.3(@emotion/react@11.11.0)(@emotion/styled@11.11.0)(@types/react@18.2.8)(framer-motion@9.1.7)(react-dom@18.2.0)(react@18.2.0)
   '@yamada-ui/table':
-    specifier: 0.0.0-dev-20230606171601
-    version: 0.0.0-dev-20230606171601(@types/react@18.2.8)(react-dom@18.2.0)(react@18.2.0)
+    specifier: ^0.1.6
+    version: 0.1.6(@types/react@18.2.8)(react-dom@18.2.0)(react@18.2.0)
   eslint:
     specifier: 8.42.0
     version: 8.42.0
@@ -894,8 +894,8 @@ packages:
       - react-dom
     dev: false
 
-  /@yamada-ui/carousel@0.0.0-dev-20230606190209(@types/react@18.2.8)(react-dom@18.2.0)(react@18.2.0):
-    resolution: {integrity: sha512-5UHe9XHCgUC2vgTylMyczsobvJE6e/7i1HS9xQRhTkAMqWm6M2JdA3HYnlcMuGQqNwhEZk1NQ8VlqHJTiEbWRQ==}
+  /@yamada-ui/carousel@0.1.6(@types/react@18.2.8)(react-dom@18.2.0)(react@18.2.0):
+    resolution: {integrity: sha512-id/Md0tdkrCO95mRW1v8X2FPQg6vJ0mo28k8JqeuUjGKux7zTEw0QfSC+TkFWeXd0DDwtK7p97CkVXKAGvxzlA==}
     peerDependencies:
       react: '>=18'
     dependencies:
@@ -1206,8 +1206,8 @@ packages:
       - react-dom
     dev: false
 
-  /@yamada-ui/markdown@0.0.0-dev-20230606191917(@types/react@18.2.8)(react-dom@18.2.0)(react@18.2.0):
-    resolution: {integrity: sha512-I7X76YLk6QghCyvvNqwSaKvowGU3HP5avFC39rjdcij1JOkq9WwdSI0NJa+shcHwSb2zip0bJxqE2SvJQPP1mA==}
+  /@yamada-ui/markdown@0.1.6(@types/react@18.2.8)(react-dom@18.2.0)(react@18.2.0):
+    resolution: {integrity: sha512-ci8f3wgP7YOQxL7DyYzVgRgggfNq32YlPIeOV1j1ryjEJbl27YylRbvgEewVcixtaB61gK8d/iWXi53FbbssoQ==}
     peerDependencies:
       react: '>=18'
     dependencies:
@@ -1687,8 +1687,8 @@ packages:
       - react-dom
     dev: false
 
-  /@yamada-ui/table@0.0.0-dev-20230606171601(@types/react@18.2.8)(react-dom@18.2.0)(react@18.2.0):
-    resolution: {integrity: sha512-2i0nN5K9KRUbHUJBcetc8uiJvpKkvYNWbQOrvwOGXAxE55K1lhwv46iVK+DZkgrqk0M12btj2lOHA1XMqSaE8A==}
+  /@yamada-ui/table@0.1.6(@types/react@18.2.8)(react-dom@18.2.0)(react@18.2.0):
+    resolution: {integrity: sha512-hEiau4Ny3LhlZfROwBSk15tm6w8mkIJxpygDk+ZRivOpyohadjrKr3oeJ9AH3PF3WwVOH+vCmJNu/S5aQ0cAYQ==}
     peerDependencies:
       react: '>=18'
     dependencies:
